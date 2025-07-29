@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/aymanech04/Bibliothekssystem)
+![GitHub last commit](https://img.shields.io/github/last-commit/aymanech04/Bibliothekssystem)
 # Bibliothekssystem (C++)
 
 ## Beschreibung
